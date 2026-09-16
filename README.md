@@ -13,6 +13,8 @@ Centralizar os materiais, cronogramas, exercícios e roteiros de treinamento par
 - `modulos/02-fase1/` - roteiro operacional e atividades da fase inicial
 - `resources/` - arquivos complementares, templates e materiais auxiliares
 
+| Importante! A versão do python utilizada é 3.11, versões mais novas podem não conseguir executar corretamente os códigos porque as bibliotecas foram atualizadas.
+
 ## Visão geral do treinamento
 
 ### Fase 1 - Base e ambientação
