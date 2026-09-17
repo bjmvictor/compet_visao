@@ -2,7 +2,7 @@ import json, random, math
 import matplotlib.pyplot as plt
 import cv2, numpy as np, math
 
-with open("keypoints_exemplo.json", encoding="utf-8") as f:  # troque pelo seu keypoints.json
+with open("keypoints.json", encoding="utf-8") as f:  # troque pelo seu keypoints.json
     kp = json.load(f)                     # carrega o JSON como dicionário
 
 print("Chaves do topo:", list(kp.keys()))            # 'metadata' e 'frames'
