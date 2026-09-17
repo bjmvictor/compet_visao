@@ -1,0 +1,5 @@
+*.venv*
+.venv\
+*.jpg
+!files/img/*.jpg
+!files/img/*.png
