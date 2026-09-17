@@ -1,0 +1,7 @@
+O keypoints.json contem os dados extraidos a partir do modelo que identifica as poses, ele registra a posição da mão,
+em quais frames foi detectado mão utilizado hand_landmarker ou de pose utilizando o pose_landmarker.
+
+Os metadadas contem o registro e informações de onde foi extraido os dados, qual o arquivo, quantidade de frames, e as taxas,
+configurações utilizadas e todo o setup que foi utilizado para extrair os dados
+
+Os frames são os quadros extraidos do vídeo, onde em cima dele que é feito o reconhecimento de mão e pose

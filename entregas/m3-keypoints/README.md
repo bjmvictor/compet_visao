@@ -5,6 +5,7 @@
 Artefato: o keypoints.json do seu vídeo + 3 frases explicando o que há dentro dele (o que é metadata e o que são os frames).
 
 #### Critério de aceite:
+- Artefato: texto explicando oque é o keypoints.json, metadada e frames.
 - JSON gerado com sucesso.
 - Você identifica onde estão a taxa de detecção e os landmarks.
 - Arquivo registrado no Classroom.
