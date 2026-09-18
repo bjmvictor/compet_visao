@@ -1,0 +1,6 @@
+*.venv*
+.venv\
+*.jpg
+*_pycache_*
+!files/img/*.jpg
+!files/img/*.png
